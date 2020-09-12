@@ -10,10 +10,14 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0" md={3} sm={12}>
+                        <font color="white">
                         Christopher Dang
+                        </font>
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={2.1}>
+                        <font color="white">
                         This website was created by Christopher Dang
+                        </font>
                     </Col>
                 </Row>
             </Container>

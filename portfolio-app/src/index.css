@@ -47,3 +47,13 @@ code {
   color: #f13c3c;
   padding: 10px 15px;
 }
+
+.contact-spacing {
+  margin-top: 100px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.contact-spacing-less {
+  margin-bottom: 0px;
+}

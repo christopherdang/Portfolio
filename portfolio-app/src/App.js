@@ -52,15 +52,15 @@ class App extends React.Component {
       <Router>
         <Container className="p-0" fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
-            <Navbar.Brand>Christopher Dang</Navbar.Brand>
+            <Navbar.Brand><font color="white">Christopher Dang</font></Navbar.Brand>
 
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
               <Nav>
-                <Link className="nav-link" to="/">Home</Link>
-                <Link className="nav-link" to="/about">About</Link>
-                <Link className="nav-link" to="/projects">Projects</Link>
-                <Link className="nav-link" to="/contact">Contact</Link>
+                <Link className="nav-link" to="/"><font color="white">Home</font></Link>
+                <Link className="nav-link" to="/about"><font color="white">About</font></Link>
+                <Link className="nav-link" to="/projects"><font color="white">Projects</font></Link>
+                <Link className="nav-link" to="/contact"><font color="white">Contact</font></Link>
 
         
               </Nav>
