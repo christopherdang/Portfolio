@@ -13,7 +13,7 @@ function Aboutpage(props) {
                 <p><font color="white">My name is Christopher Dang and I am currently majoring in Computer Science at the University of Florida</font></p>
                 
                 <p><font color="white">
-                    I was born in Tampa, Florida and grew up with a loving and supportive family. 
+                    I was born in Tampa, Florida and grew up with a loving and supportive family. I grew up playing sports and was on my high school swimming and soccer team.
                 </font></p>
 
                 <p><font color="white">
